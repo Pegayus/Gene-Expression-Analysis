@@ -1,4 +1,4 @@
-# Project Title: Longitudinal Analysis and Modeling of Gene Expression Data across Different Brain Regions
+# Longitudinal Analysis and Modeling of Gene Expression Data across Different Brain Regions
 
 ## Project Description:
 This project encompasses a comprehensive analysis and modeling of gene expression data across various brain regions and developmental stages. A suite of R scripts was developed to handle data preprocessing, preliminary and exploratory data analysis, and sophisticated statistical modeling using both Bayesian and linear methodologies. 
